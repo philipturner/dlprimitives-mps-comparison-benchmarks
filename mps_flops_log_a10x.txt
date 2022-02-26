@@ -1,3 +1,5 @@
+Assumed GFLOPS: 768.0
+Assumed GB/s: 51.2
 
   NN  0:  512,  512,  512 
      194.3 GFlops (25.30%)      2.3 GB/s (25.30%) limited by gflops 25.30%
