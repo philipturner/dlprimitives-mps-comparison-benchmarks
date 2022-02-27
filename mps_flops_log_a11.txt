@@ -1,0 +1,134 @@
+Assumed GFLOPS: 409.3
+Assumed GB/s: 34.1
+
+  NN  0:  512,  512,  512 
+      88.4 GFlops (21.60%)      1.0 GB/s (21.60%) limited by gflops 21.60%
+
+  NN  1: 1024, 1024, 1024 
+     151.1 GFlops (36.92%)      0.9 GB/s (36.92%) limited by gflops 36.92%
+
+  NN  2: 1025, 1025, 1025 
+     122.1 GFlops (29.82%)      0.7 GB/s (29.82%) limited by gflops 29.82%
+
+  NN  3: 2048, 2048, 2048 
+     197.5 GFlops (48.26%)      0.6 GB/s (48.26%) limited by gflops 48.26%
+
+  NN  4: 2049, 2049, 2049 
+     132.6 GFlops (32.40%)      0.4 GB/s (32.40%) limited by gflops 32.40%
+
+  NN  5:   64, 2048,   64 
+      63.9 GFlops (15.61%)      4.1 GB/s (15.61%) limited by gflops 15.61%
+
+  NN  6: 2048,   64, 2048 
+      85.7 GFlops (20.93%)      2.8 GB/s (20.93%) limited by gflops 20.93%
+
+  NN  7: 2048, 2048,   64 
+      77.1 GFlops (18.85%)      2.6 GB/s (18.85%) limited by gflops 18.85%
+
+  NN  8: 2048,   64,   64 
+      45.9 GFlops (11.21%)      2.9 GB/s (11.21%) limited by gflops 11.21%
+
+  NN  9:   64, 2048, 2048 
+      87.8 GFlops (21.45%)      2.9 GB/s (21.45%) limited by gflops 21.45%
+
+  NN 10:   64,   64, 2048 
+      19.7 GFlops ( 4.81%)      1.2 GB/s ( 4.81%) limited by gflops  4.81%
+
+  NT  0:  512,  512,  512 
+      33.8 GFlops ( 8.26%)      0.4 GB/s ( 8.26%) limited by gflops  8.26%
+
+  NT  1: 1024, 1024, 1024 
+      80.3 GFlops (19.63%)      0.5 GB/s (19.63%) limited by gflops 19.63%
+
+  NT  2: 1025, 1025, 1025 
+      61.6 GFlops (15.04%)      0.4 GB/s (15.04%) limited by gflops 15.04%
+
+  NT  3: 2048, 2048, 2048 
+      80.7 GFlops (19.72%)      0.2 GB/s (19.72%) limited by gflops 19.72%
+
+  NT  4: 2049, 2049, 2049 
+      61.0 GFlops (14.91%)      0.2 GB/s (14.91%) limited by gflops 14.91%
+
+  NT  5:   64, 2048,   64 
+      28.0 GFlops ( 6.85%)      1.8 GB/s ( 6.85%) limited by gflops  6.85%
+
+  NT  6: 2048,   64, 2048 
+      40.7 GFlops ( 9.94%)      1.4 GB/s ( 9.94%) limited by gflops  9.94%
+
+  NT  7: 2048, 2048,   64 
+      39.0 GFlops ( 9.53%)      1.3 GB/s ( 9.53%) limited by gflops  9.53%
+
+  NT  8: 2048,   64,   64 
+      20.3 GFlops ( 4.96%)      1.3 GB/s ( 4.96%) limited by gflops  4.96%
+
+  NT  9:   64, 2048, 2048 
+      40.2 GFlops ( 9.81%)      1.3 GB/s ( 9.81%) limited by gflops  9.81%
+
+  NT 10:   64,   64, 2048 
+       9.6 GFlops ( 2.34%)      0.6 GB/s ( 2.34%) limited by gflops  2.34%
+
+  TN  0:  512,  512,  512 
+      69.2 GFlops (16.92%)      0.8 GB/s (16.92%) limited by gflops 16.92%
+
+  TN  1: 1024, 1024, 1024 
+     142.8 GFlops (34.88%)      0.8 GB/s (34.88%) limited by gflops 34.88%
+
+  TN  2: 1025, 1025, 1025 
+     120.5 GFlops (29.43%)      0.7 GB/s (29.43%) limited by gflops 29.43%
+
+  TN  3: 2048, 2048, 2048 
+     170.9 GFlops (41.76%)      0.5 GB/s (41.76%) limited by gflops 41.76%
+
+  TN  4: 2049, 2049, 2049 
+     125.6 GFlops (30.67%)      0.4 GB/s (30.67%) limited by gflops 30.67%
+
+  TN  5:   64, 2048,   64 
+      53.6 GFlops (13.10%)      3.4 GB/s (13.10%) limited by gflops 13.10%
+
+  TN  6: 2048,   64, 2048 
+      59.1 GFlops (14.44%)      2.0 GB/s (14.44%) limited by gflops 14.44%
+
+  TN  7: 2048, 2048,   64 
+      64.4 GFlops (15.73%)      2.2 GB/s (15.73%) limited by gflops 15.73%
+
+  TN  8: 2048,   64,   64 
+      41.5 GFlops (10.13%)      2.7 GB/s (10.13%) limited by gflops 10.13%
+
+  TN  9:   64, 2048, 2048 
+      62.8 GFlops (15.33%)      2.1 GB/s (15.33%) limited by gflops 15.33%
+
+  TN 10:   64,   64, 2048 
+      11.5 GFlops ( 2.81%)      0.7 GB/s ( 2.81%) limited by gflops  2.81%
+
+  TT  0:  512,  512,  512 
+      47.7 GFlops (11.67%)      0.6 GB/s (11.67%) limited by gflops 11.67%
+
+  TT  1: 1024, 1024, 1024 
+      80.0 GFlops (19.55%)      0.5 GB/s (19.55%) limited by gflops 19.55%
+
+  TT  2: 1025, 1025, 1025 
+      54.0 GFlops (13.18%)      0.3 GB/s (13.18%) limited by gflops 13.18%
+
+  TT  3: 2048, 2048, 2048 
+      80.1 GFlops (19.56%)      0.2 GB/s (19.56%) limited by gflops 19.56%
+
+  TT  4: 2049, 2049, 2049 
+      56.8 GFlops (13.88%)      0.2 GB/s (13.88%) limited by gflops 13.88%
+
+  TT  5:   64, 2048,   64 
+      35.3 GFlops ( 8.63%)      2.3 GB/s ( 8.63%) limited by gflops  8.63%
+
+  TT  6: 2048,   64, 2048 
+      43.3 GFlops (10.58%)      1.4 GB/s (10.58%) limited by gflops 10.58%
+
+  TT  7: 2048, 2048,   64 
+      43.2 GFlops (10.56%)      1.4 GB/s (10.56%) limited by gflops 10.56%
+
+  TT  8: 2048,   64,   64 
+      24.3 GFlops ( 5.94%)      1.6 GB/s ( 5.94%) limited by gflops  5.94%
+
+  TT  9:   64, 2048, 2048 
+      41.8 GFlops (10.22%)      1.4 GB/s (10.22%) limited by gflops 10.22%
+
+  TT 10:   64,   64, 2048 
+      14.3 GFlops ( 3.48%)      0.9 GB/s ( 3.48%) limited by gflops  3.48%
